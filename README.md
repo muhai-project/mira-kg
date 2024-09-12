@@ -39,7 +39,6 @@ SPARQL queries can be found here: [https://github.com/muhai-project/mira/tree/ma
 An example query is shown below: 
 
 # CQ 1 what is the evidence for a specific claim (which descriptive statistics, based on what type of sample?) 
-# https://youneedawiki.com/app/page/16bVDFTQ03PMqpwtyRyMBwbkvIlq8bvCtBWPk_rwTfqw?p=1QKAOVV0TXfF4vYQ7b5dkHkXQjBqnh75W
 
 ```
 PREFIX sem: <http://semanticweb.cs.vu.nl/2009/11/sem/>
